@@ -1,0 +1,5 @@
+outs:
+- md5: a3e22cc62de897dec9b58da57b945d3c
+  size: 4399760
+  hash: md5
+  path: train_norm.h5
